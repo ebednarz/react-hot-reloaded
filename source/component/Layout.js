@@ -3,7 +3,7 @@ import React, { PropTypes } from 'react';
 function Layout({ children }) {
   return (
     <div>
-      <h1>Hello, world!</h1>
+      <h1>Hello, world!!!</h1>
       {children}
     </div>
   );

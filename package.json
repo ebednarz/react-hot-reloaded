@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "react-hot-loader@3 boilerplate",
   "scripts": {
-    "prestart": "npm install --ignore-scripts",
+    "prestart": "yarn",
     "start": "node server/development.js",
     "lint": "eslint ./source"
   },
