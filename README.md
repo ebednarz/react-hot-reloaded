@@ -4,7 +4,7 @@
 
 ## Usage
 
-    $ npm start
+    $ yarn start
 
 ## TODO
 
